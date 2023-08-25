@@ -146,6 +146,242 @@ width: fit-content;
 .layer-7-3103820f709f4235a2a2d89c70bca0e0{
     display: flex;
     contain: paint;
+    flex-direction: row;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: transparent;
+height: fit-content;
+align-self: stretch;
+    
+}
+.layer-10-50d2b71ca0854687a8b551e58cd4cd29{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: transparent;
+height: fit-content;
+flex-grow: 1;width: unset;
+    
+}
+.layer-15-3a15308f7af84162a350344cd71ef192{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: transparent;
+height: fit-content;
+width: 300px;min-width: 300px;
+    
+}
+.text-20-02d14d4d273843c193d9d419245573e9{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-21-31ce004b11ee4141a534097b51398beb{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-22-b399a9d05a4c423d95747fda9645e497{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-23-92fa7832648a46dc8dc57c96e18a17c4{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-24-a8ed712bccd848acb0ec4676db8233eb{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-25-583dc18ad2824c5e88c8f91f11f04575{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-26-08582ae3881f41bd99352fc2ff4d3fd8{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-27-d4128479e8074b51b277a021cd5146dc{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-28-d2eae7f364f54cdfbfa09dbc881b1698{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-29-0da4e453b1164fdfad1543265f241467{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-30-63802736b17144a8909485fe92a35987{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.layer-16-31d6e8f09a134d72b63890e1a78de148{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: transparent;
+height: fit-content;
+width: 300px;min-width: 300px;
+    
+}
+.text-31-b80845d21cf64a8cac1c48ac28340456{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-32-cde58f064fc64ab69eb6262e9f1b9458{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-33-9769143f9eaa433298c6e1ab59de224e{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-34-2ac25dce07f445b783437556616d2049{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-35-a3b92b54e5b142e1bf37ed4f8c8e1e81{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.layer-11-b47f069fba6c44aeb68f7da90755e9ac{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: transparent;
+height: fit-content;
+flex-grow: 1;width: unset;
+    
+}
+.layer-17-5b2e261b1f564404800a82e20651dc51{
+    display: flex;
+    contain: paint;
     flex-direction: column;
 justify-content: flex-start;
 align-items: flex-start;
@@ -153,6 +389,731 @@ align-items: flex-start;
 background-color: transparent;
 height: 100px;min-height: 100px;
 width: 300px;min-width: 300px;
+    
+}
+.text-36-e5e396cbdafb486f81027a6b663c2d44{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-37-20b106b3f2ca41068dfb0df7890141df{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-38-be1b499e53224a88abf72a89ef7368be{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-39-914c3d6c21cb4b4d9320bc3530ef1032{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.layer-18-d7814763af554800a2282432c57231b8{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: transparent;
+height: fit-content;
+width: 300px;min-width: 300px;
+    
+}
+.text-40-53afdb5f683747c59ea3751a58afeece{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-41-a7a6209519e948c8a6e7d7986627b55a{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-42-7efe87535f6241b69828e0210117b32e{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-43-5f22b5c6bb4b41b3b1175d2a9d841683{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-44-be8c6c67514c4a13bcf4b2706ed76027{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-45-eb49b37a11ca49c48af034ccd3d0e504{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-46-5d28ac5989f643c08f31b1cfff8efc1f{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-47-c8df0aec95ae4d3f8633d53aa53e8162{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-48-ee46f7064a944071a5aa73fde2285e0b{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-49-53cc0ca889da4715a331a016f765b6a6{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.layer-12-0fabace657f546d68cff082ab73d909e{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: transparent;
+height: fit-content;
+flex-grow: 1;width: unset;
+    
+}
+.text-50-561b832c6f8348be8afaa7a29bf72948{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-51-97e5140c8b5b499f8500aea7d8af8bec{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-52-d6638111aceb453cbac8070890e19ebd{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-53-0d396f5b0f18457991de71fb3f431001{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-54-774fe03e67b4409c839dd4499cd1ffd6{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-55-b1d435e156954cefbabb9b596a5bc9b2{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-56-0eb8b5f693f649a0abfaf55c3cb8703e{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-57-0e3cbeea7c3043919a029e757c705a82{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-58-d308f445a57c4f459a428cd6b3fcaf65{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-59-35e88353f6984820992d66756d0eb8ba{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-60-67cf866678514fdfa000b36821132476{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.layer-13-e7bf93adad1d496fa03ffc8b31c70ca3{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: transparent;
+height: fit-content;
+flex-grow: 1;width: unset;
+    
+}
+.layer-19-614e46323e4046ec8e79b1ad000c5d93{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: transparent;
+height: 100px;min-height: 100px;
+width: 300px;min-width: 300px;
+    
+}
+.text-61-3e68387478ed4b76872436873b86ddc8{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-62-ee605f2f2bee4066a76a7d8aa7309fd5{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-63-f68bff503d254a17b74fbb3d1134c4b8{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.layer-20-f4361ad911884dea90ef618b9488edcd{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: transparent;
+height: 100px;min-height: 100px;
+width: 300px;min-width: 300px;
+    
+}
+.text-64-177cd413ca9b4e4ca256f676252587f5{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-65-22f5a3f76bbf44008457d34c548e2ebf{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-66-f15a69a7f63443f9b34fcef551d5bb5c{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-67-a29d0e3bcc0f4dc497027d75f93da377{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.layer-22-f8e79955a85b481599e2a9a3a69b746e{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: transparent;
+height: 100px;min-height: 100px;
+width: 300px;min-width: 300px;
+    
+}
+.text-68-168b400818dc4f83b5e75bb7883823ef{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-69-6144f68ccaf54617af93a3e62d610b4f{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-70-d957882401b14ee4b64b1b0db83db3c3{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-71-f63a04c81c4b4b3f96d00fd85e880ba2{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.layer-21-a68b7c80eeb5423da2d3a0e3b99ef8d0{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: transparent;
+height: 100px;min-height: 100px;
+width: 300px;min-width: 300px;
+    
+}
+.text-72-5b7b97197d3340a6a5d2c997a216b959{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-73-d6d16b36cc444feaa12284725972634f{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-74-00ca521683054304bd325988b212d8b4{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.layer-14-a4458370fdaa4cccb3a09054a71e9efb{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: transparent;
+height: fit-content;
+flex-grow: 1;width: unset;
+    
+}
+.layer-23-deb23efca6404332a7291f7a051bdaa3{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: transparent;
+height: fit-content;
+width: 300px;min-width: 300px;
+    
+}
+.text-75-1ddd2652de304a72a568c4998aa9b1ea{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-76-795e55bf47754ddd902ee1d8ac7ea08f{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-77-cd6e10fd3eb04da0ab3d92a61b6971c1{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-78-508fb507d15045ff8cd1f41fea96b36d{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-79-08ed265f7eb144639a16402e872a72d4{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-80-4cf15eb71ae84473b590f0bd650512cb{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-81-c2fa63a10f024b1a8d8ebe0d44f25c7a{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-82-18a2f6ef4e914c50a1cf217262c2eccb{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.layer-24-0e311d256cee437a8839836e1b9cd333{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: transparent;
+height: fit-content;
+width: 300px;min-width: 300px;
+    
+}
+.text-83-c94e0949a03041b7aa288f7b5bf25b17{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-84-4f982a18993a4753a4e7725d24e845a4{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-85-e30fc693f0694208b6085c0b8384e1cf{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-86-ab123d29e28643129a1ff6fafc8ed771{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-87-ef982ee6c542495eb81bf41518072c47{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-88-7118cfeaceff46d1ad0c6f40af262818{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-89-031be7df1223440f8034af1f225fc1b6{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-90-c7995a5dc8c048c68ade39b3b82a64c8{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+
+
+color: #000000;
+height: fit-content;
+width: fit-content;
     
 }
 .layer-6-9217fb47f286408da496ec2a025240af{
