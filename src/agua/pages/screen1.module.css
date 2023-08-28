@@ -13,7 +13,7 @@ align-items: flex-start;
 justify-content: flex-start;
 align-items: flex-start;
 
-height: 10px;min-height: 10px;
+height: 5vh;min-height: 5vh;
 align-self: stretch;
 position: sticky;
  top: 0;
@@ -31,16 +31,30 @@ height: fit-content;
 align-self: stretch;
     
 }
-.layer-25-a5702611e2664b6a9baa78eca7d1181e{
+.layer-27-50f1e0b370d946bd917e9cdaea6a6c0e{
     display: flex;
     contain: paint;
     flex-direction: column;
 justify-content: flex-start;
 align-items: flex-start;
-
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+background-image: url('/assets/3.hero_macbook_air_15_midnight__ct0pgwizvree_mediumtall_2x.jpeg');
+height: 85vh;min-height: 85vh;
+align-self: stretch;
+    
+}
+.layer-25-a5702611e2664b6a9baa78eca7d1181e{
+    display: flex;
+    contain: paint;
+    flex-direction: row;
+justify-content: flex-start;
+align-items: flex-start;
+overflow-x: scroll;
 background-color: transparent;
-height: 100px;min-height: 100px;
-width: 300px;min-width: 300px;
+height: 85vh;min-height: 85vh;
+align-self: stretch;
     
 }
 .layer-3-c2d44d3784ea4d518db7d3561087a72c{
@@ -49,10 +63,12 @@ width: 300px;min-width: 300px;
     flex-direction: row;
 justify-content: flex-start;
 align-items: center;
-
-background-color: transparent;
-height: 85vh;min-height: 85vh;
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+background-image: url('/assets/8.2.thebeaniebubble.jpeg');
 align-self: stretch;
+width: 75vw;min-width: 75vw;
     
 }
 .layer-26-c4444b9ee0dd40eca34518050cface0c{
@@ -202,7 +218,7 @@ align-items: flex-start;
 
 background-color: transparent;
 height: fit-content;
-width: 300px;min-width: 300px;
+align-self: stretch;
     
 }
 .text-20-02d14d4d273843c193d9d419245573e9{
@@ -335,7 +351,7 @@ align-items: flex-start;
 
 background-color: transparent;
 height: fit-content;
-width: 300px;min-width: 300px;
+align-self: stretch;
     
 }
 .text-31-b80845d21cf64a8cac1c48ac28340456{
@@ -413,8 +429,8 @@ justify-content: flex-start;
 align-items: flex-start;
 
 background-color: transparent;
-height: 100px;min-height: 100px;
-width: 300px;min-width: 300px;
+height: fit-content;
+align-self: stretch;
     
 }
 .text-36-e5e396cbdafb486f81027a6b663c2d44{
@@ -470,7 +486,7 @@ align-items: flex-start;
 
 background-color: transparent;
 height: fit-content;
-width: 300px;min-width: 300px;
+align-self: stretch;
     
 }
 .text-40-53afdb5f683747c59ea3751a58afeece{
@@ -736,8 +752,8 @@ justify-content: flex-start;
 align-items: flex-start;
 
 background-color: transparent;
-height: 100px;min-height: 100px;
-width: 300px;min-width: 300px;
+height: fit-content;
+align-self: stretch;
     
 }
 .text-61-3e68387478ed4b76872436873b86ddc8{
@@ -781,8 +797,8 @@ justify-content: flex-start;
 align-items: flex-start;
 
 background-color: transparent;
-height: 100px;min-height: 100px;
-width: 300px;min-width: 300px;
+height: fit-content;
+align-self: stretch;
     
 }
 .text-64-177cd413ca9b4e4ca256f676252587f5{
@@ -837,8 +853,8 @@ justify-content: flex-start;
 align-items: flex-start;
 
 background-color: transparent;
-height: 100px;min-height: 100px;
-width: 300px;min-width: 300px;
+height: fit-content;
+align-self: stretch;
     
 }
 .text-68-168b400818dc4f83b5e75bb7883823ef{
@@ -893,8 +909,8 @@ justify-content: flex-start;
 align-items: flex-start;
 
 background-color: transparent;
-height: 100px;min-height: 100px;
-width: 300px;min-width: 300px;
+height: fit-content;
+align-self: stretch;
     
 }
 .text-72-5b7b97197d3340a6a5d2c997a216b959{
@@ -951,7 +967,7 @@ align-items: flex-start;
 
 background-color: transparent;
 height: fit-content;
-width: 300px;min-width: 300px;
+align-self: stretch;
     
 }
 .text-75-1ddd2652de304a72a568c4998aa9b1ea{
@@ -1051,7 +1067,7 @@ align-items: flex-start;
 
 background-color: transparent;
 height: fit-content;
-width: 300px;min-width: 300px;
+align-self: stretch;
     
 }
 .text-83-c94e0949a03041b7aa288f7b5bf25b17{
