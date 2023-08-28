@@ -13,10 +13,11 @@ align-items: flex-start;
 justify-content: flex-start;
 align-items: flex-start;
 
-background-color: transparent;
 height: 10px;min-height: 10px;
 align-self: stretch;
-    
+position: sticky;
+ top: 0;
+    background: var(--backgroundColor); 
 }
 .layer-2-d2d569512628432d9e90b13b7b03ba0a{
     display: flex;
@@ -24,13 +25,13 @@ align-self: stretch;
     flex-direction: column;
 justify-content: flex-start;
 align-items: flex-start;
-
+overflow-y: scroll;
 background-color: transparent;
 height: fit-content;
 align-self: stretch;
     
 }
-.layer-3-c2d44d3784ea4d518db7d3561087a72c{
+.layer-25-a5702611e2664b6a9baa78eca7d1181e{
     display: flex;
     contain: paint;
     flex-direction: column;
@@ -38,8 +39,34 @@ justify-content: flex-start;
 align-items: flex-start;
 
 background-color: transparent;
-height: 85px;min-height: 85px;
+height: 100px;min-height: 100px;
+width: 300px;min-width: 300px;
+    
+}
+.layer-3-c2d44d3784ea4d518db7d3561087a72c{
+    display: flex;
+    contain: paint;
+    flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+
+background-color: transparent;
+height: 85vh;min-height: 85vh;
 align-self: stretch;
+    
+}
+.layer-26-c4444b9ee0dd40eca34518050cface0c{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+background-image: url('/assets/8.1hijack.jpeg');
+align-self: stretch;
+width: 75vw;min-width: 75vw;
     
 }
 .layer-4-33abcced0c09402c96c2cc7ff09f4fbb{
@@ -49,10 +76,9 @@ align-self: stretch;
 justify-content: flex-start;
 align-items: flex-start;
 
-background-color: transparent;
 height: fit-content;
 align-self: stretch;
-    
+    background: var(--backgroundColor); 
 }
 .layer-5-52018ac4fc4146c89afd2f8bd9532344{
     display: flex;

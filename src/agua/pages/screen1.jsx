@@ -12,7 +12,10 @@ function Screen1() {
             
 <div id="layer-1-9f32a6d2c191417ab8b6e5607be8d5b5" className={styles["layer-1-9f32a6d2c191417ab8b6e5607be8d5b5"]} ></div>
 <div id="layer-2-d2d569512628432d9e90b13b7b03ba0a" className={styles["layer-2-d2d569512628432d9e90b13b7b03ba0a"]} >
-<div id="layer-3-c2d44d3784ea4d518db7d3561087a72c" className={styles["layer-3-c2d44d3784ea4d518db7d3561087a72c"]} ></div>
+<div id="layer-25-a5702611e2664b6a9baa78eca7d1181e" className={styles["layer-25-a5702611e2664b6a9baa78eca7d1181e"]} ></div>
+<div id="layer-3-c2d44d3784ea4d518db7d3561087a72c" className={styles["layer-3-c2d44d3784ea4d518db7d3561087a72c"]} >
+<div id="layer-26-c4444b9ee0dd40eca34518050cface0c" className={styles["layer-26-c4444b9ee0dd40eca34518050cface0c"]} ></div>
+</div>
 <div id="layer-4-33abcced0c09402c96c2cc7ff09f4fbb" className={styles["layer-4-33abcced0c09402c96c2cc7ff09f4fbb"]} >
 <div id="layer-5-52018ac4fc4146c89afd2f8bd9532344" className={styles["layer-5-52018ac4fc4146c89afd2f8bd9532344"]} >
 <div id="text-9-d51f4cdb819043db8eec406f93cffb20" className={styles["text-9-d51f4cdb819043db8eec406f93cffb20"]} >1. Qualified Purchasers receive an Apple Gift Card when they purchase an eligible Mac or iPad at a Qualifying Location. Only one Apple Gift Card per eligible Mac or iPad per Qualified Purchaser. Offer subject to availability. While supplies last. View full terms and conditions of offer here.</div>
@@ -144,7 +147,7 @@ function Screen1() {
 <div id="text-21-1671dd0a8f194b4eae16b4046deea687" className={styles["text-21-1671dd0a8f194b4eae16b4046deea687"]} >Legal</div>
 <div id="text-22-07b6d983ea404b6fb13796e4030815a5" className={styles["text-22-07b6d983ea404b6fb13796e4030815a5"]} >Site Map</div>
 </div>
-<div id="text-23-deb545b8785e4aea8e943250e927d876" className={styles["text-23-deb545b8785e4aea8e943250e927d876"]} >[Text]</div>
+<div id="text-23-deb545b8785e4aea8e943250e927d876" className={styles["text-23-deb545b8785e4aea8e943250e927d876"]} >United States</div>
 </div>
 </div>
 </div>
